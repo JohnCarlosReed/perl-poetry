@@ -9,7 +9,7 @@ our $love; for ($perl; $will; not die() ) {} #perlpoetry
 
 Add anything you like.  The only rule that matters: 
 ````
-Keep it clean.  Nothing offensive, vulgar, hateful, racist, etc.  Use common sense.  Oh, and please don't plagerize.
+Keep it clean.  Nothing offensive, vulgar, hateful, racist, etc.  Use common sense.  Oh, and please don't plagiarize.
 ````
 
 I loosly appreciate if it passes a syntax check:  perl -c
