@@ -17,9 +17,7 @@ I loosly appreciate if it passes a syntax check:  perl -c
 But it's certainly ok to post a poem about Perl in plain text.
 ````
 
-I have a soft spot for movie quotes, song lyrics, and pop culture.
-
-Example:
+I have a soft spot for movie quotes, song lyrics, and pop culture.  Such as,
 
 $bono = not $found =~ /what he is looking for/;  
 
