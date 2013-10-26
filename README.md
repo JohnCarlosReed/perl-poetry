@@ -21,3 +21,9 @@ I have a soft spot for movie quotes, song lyrics, and pop culture.  Such as,
 
 $bono = not $found =~ /what he is looking for/;  
 
+So go ahead folks, feel free to contribute.  Because...
+
+````
+our $love; for ($perl; $will; not die() ) {} #perlpoetry
+````
+
