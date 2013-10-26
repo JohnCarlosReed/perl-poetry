@@ -11,9 +11,7 @@ I encourage everyone to submit a Perl poem!  Add anything you like.  The only ru
 Keep it clean.  Nothing offensive, vulgar, hateful, racist, etc.  Use common sense.
 ````
 
-````
 I loosly appreciate if it passes a syntax check:  perl -c
-````
 
 ````
 But it's certainly ok to post a poem about Perl in plain text.
